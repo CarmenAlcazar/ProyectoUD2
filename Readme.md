@@ -1,4 +1,4 @@
-Equipo
+#### Equipo
 
 - Juan David Dominguez
 - Cristina Cívico
