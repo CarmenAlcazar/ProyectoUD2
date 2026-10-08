@@ -1,5 +1,5 @@
 <?php
-$productos = [
+$catalogo = [
     "cem325" => [
         "nombre" => __________, 
         "precio" => __________ 
